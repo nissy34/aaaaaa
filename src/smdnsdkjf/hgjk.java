@@ -15,6 +15,7 @@ public class hgjk
         System.out.println(m.totalTaxes());
         System.out.println(m.totalTaxes());
         System.out.println(m.totalTaxes());
+        System.out.println(m.totalTaxes());
         System.out.println(m.valList());
         System.out.println(m.valList());
     }
